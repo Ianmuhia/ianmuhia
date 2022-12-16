@@ -1,23 +1,7 @@
 # 💫About Me :
-- 🔭 I’m currently working on [church web app project](https://github.com/miriancode/cljm)
-
-- 🌱 I’m currently learning **Svelte**
-
-- 👯 I’m looking to collaborate on [church web app project (clj)](https://github.com/miriancode/cljm)
-
-- 🤝 I’m looking for help with [clj](https://github.com/miriancode/cljm)
-
-- 👨‍💻 All of my projects are available at [miriancode.com](miriancode.com)
-
-- 📝 I regularly write articles on [miriancode.com/blog](miriancode.com/blog)
-
 - 💬 Ask me about **Flutter and Golang**
 
 - 📫 How to reach me **ianmuhia.dev@gmail.com**
-
-- 📄 Know about my experiences [miriancode.com](miriancode.com)
-
-- ⚡ Fun fact **I Still watch sitcoms**
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ianmuhia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ianmuhia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianmuhia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianmuhia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ianmuhia) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ianmuhia) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ianmuhia) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ianmuhia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@__ianmhuia)
